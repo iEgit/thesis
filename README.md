@@ -10,7 +10,8 @@
 	2.  Use them on real historical data
 	3.  Evaluate and analyse all basic performance indicators
 
-$$a=3$
+
+$x=2$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDY0NTM3LC03NzQ4NzQ4MzhdfQ==
+eyJoaXN0b3J5IjpbLTI4NTAwNzU3OSwtNzc0ODc0ODM4XX0=
 -->

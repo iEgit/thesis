@@ -9,9 +9,7 @@
 	1.  work out trading algorithms based on theoretical concepts provided
 	2.  Use them on real historical data
 	3.  Evaluate and analyse all basic performance indicators
-
-
-$x=2$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTAwNzU3OSwtNzc0ODc0ODM4XX0=
+eyJoaXN0b3J5IjpbLTc3NDg3NDgzOCwtMjg1MDA3NTc5LC03Nz
+Q4NzQ4MzhdfQ==
 -->
